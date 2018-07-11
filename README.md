@@ -23,4 +23,3 @@ This template can be deployed automatically from the BowTie 'Add Project' interf
 
 _NOTE: This repo does not contain the settings.json file installed during BowTie project creation. You will need the settings.json file in order to build the project on push and to run the [local client](https://github.com/bowtie-io/bowtie-io)._
 
-
