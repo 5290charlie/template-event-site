@@ -3,10 +3,10 @@ location: homepage
 head:
   title: null
   subtitle: null
-  img_path:
+  img_path: null
 style:
-  id: 'hero'
-  class: 'jumbotron bgclear'
+  id: hero
+  class: jumbotron bgclear
   media:
     img:
       url_path: /img/backgrounds/event-meeting.jpg
@@ -15,23 +15,28 @@ style:
       overlay: dark
       blur: false
     video:
-      url_path:
-      type:
+      url_path: null
+      type: null
   tint_color: null
   font_color: '#fff'
-
 cta:
   headline: ''
   btnText: Learn More
   btnType: btn-transparent
-  btnLink: '/about/'
+  btnLink: /about/
   subtext: null
+
 ---
+![](/img/bowtie-site-template-badge-w.png)
 
-<img src="/img/bowtie-site-template-badge-w.png" style="width:150px;margin:30px auto 20px;">
+Event Website
+=============
 
-# Event Website
+EPIC!!
+
+1.  Number
+2.  List
+3.  is 
+4.  numbered
 
 ### ⋈ BowTie sites are fast, safe, and require no maintenance or upgrades.
-
-&nbsp;
