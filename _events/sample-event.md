@@ -3,7 +3,7 @@ layout: event
 title: Woodworking Workshop
 subtitle: Starting July 15th
 excerpt: Learn the skills of woodworking
-logo_path: null
+logo_path: upload/image/png/1549432443830_logo_path_charlie-bowtie.png
 date_on: '2016-07-15'
 start_at: '2016-07-15 14:15:00'
 end_at: '2016-07-15 16:15:00'
@@ -66,6 +66,7 @@ location:
   latlng: '36.9989797,-109.045184'
 
 ---
+
 <h2>Event Details</h2>
 <p></p>
 <p>boo ya!</p>
@@ -74,4 +75,5 @@ location:
 <h3>Nullam dictum felis eu pede mollis pretium.</h3>
 <p>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
 <p>Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar,</p>
+
 
